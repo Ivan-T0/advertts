@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/advertts/static/css/main.7e7e1fa4.css",
+    "main.js": "/advertts/static/js/main.cfe6652d.js",
+    "static/media/Manrope-SemiBold.ttf": "/advertts/static/media/Manrope-SemiBold.310f108cc524df0e5ffc.ttf",
+    "static/media/Manrope-Medium.ttf": "/advertts/static/media/Manrope-Medium.08894ccb04665d1a9d53.ttf",
+    "static/media/Manrope-Regular.ttf": "/advertts/static/media/Manrope-Regular.a9b9e09fe6b69741f316.ttf",
+    "index.html": "/advertts/index.html",
+    "static/media/normal.svg": "/advertts/static/media/normal.f9a498fad84095db81ee3bafcf1c2675.svg",
+    "static/media/x.svg": "/advertts/static/media/x.deb20e5da737e93121346cb3855e8f21.svg",
+    "main.7e7e1fa4.css.map": "/advertts/static/css/main.7e7e1fa4.css.map",
+    "main.cfe6652d.js.map": "/advertts/static/js/main.cfe6652d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e7e1fa4.css",
+    "static/js/main.cfe6652d.js"
+  ]
+}
